@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crypto-fatman/static/css/main.cf8a009f.chunk.css",
-    "main.js": "/crypto-fatman/static/js/main.ff98ffb6.chunk.js",
-    "main.js.map": "/crypto-fatman/static/js/main.ff98ffb6.chunk.js.map",
+    "main.js": "/crypto-fatman/static/js/main.335300f0.chunk.js",
+    "main.js.map": "/crypto-fatman/static/js/main.335300f0.chunk.js.map",
     "runtime-main.js": "/crypto-fatman/static/js/runtime-main.b01fa1ea.js",
     "runtime-main.js.map": "/crypto-fatman/static/js/runtime-main.b01fa1ea.js.map",
     "static/js/2.336f23be.chunk.js": "/crypto-fatman/static/js/2.336f23be.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.b01fa1ea.js",
     "static/js/2.336f23be.chunk.js",
     "static/css/main.cf8a009f.chunk.css",
-    "static/js/main.ff98ffb6.chunk.js"
+    "static/js/main.335300f0.chunk.js"
   ]
 }
