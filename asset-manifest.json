@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/crypto-fatman/static/css/main.cf8a009f.chunk.css",
+    "main.js": "/crypto-fatman/static/js/main.571a25a4.chunk.js",
+    "main.js.map": "/crypto-fatman/static/js/main.571a25a4.chunk.js.map",
+    "runtime-main.js": "/crypto-fatman/static/js/runtime-main.b01fa1ea.js",
+    "runtime-main.js.map": "/crypto-fatman/static/js/runtime-main.b01fa1ea.js.map",
+    "static/js/2.0840a03e.chunk.js": "/crypto-fatman/static/js/2.0840a03e.chunk.js",
+    "static/js/2.0840a03e.chunk.js.map": "/crypto-fatman/static/js/2.0840a03e.chunk.js.map",
+    "index.html": "/crypto-fatman/index.html",
+    "static/css/main.cf8a009f.chunk.css.map": "/crypto-fatman/static/css/main.cf8a009f.chunk.css.map",
+    "static/js/2.0840a03e.chunk.js.LICENSE.txt": "/crypto-fatman/static/js/2.0840a03e.chunk.js.LICENSE.txt",
+    "static/media/420.9809f2cb.svg": "/crypto-fatman/static/media/420.9809f2cb.svg",
+    "static/media/Group 1.2661dd89.png": "/crypto-fatman/static/media/Group 1.2661dd89.png",
+    "static/media/Logo.c02ab843.svg": "/crypto-fatman/static/media/Logo.c02ab843.svg",
+    "static/media/beer_guy.ffa57c12.png": "/crypto-fatman/static/media/beer_guy.ffa57c12.png",
+    "static/media/discord.be00930c.svg": "/crypto-fatman/static/media/discord.be00930c.svg",
+    "static/media/fatty.30996c9a.png": "/crypto-fatman/static/media/fatty.30996c9a.png",
+    "static/media/fatty_2.336d6528.png": "/crypto-fatman/static/media/fatty_2.336d6528.png",
+    "static/media/fatty_3.d59cbd2c.png": "/crypto-fatman/static/media/fatty_3.d59cbd2c.png",
+    "static/media/fatty_4.8ca06d3c.png": "/crypto-fatman/static/media/fatty_4.8ca06d3c.png",
+    "static/media/fatty_5.5d68753d.png": "/crypto-fatman/static/media/fatty_5.5d68753d.png",
+    "static/media/fatty_welcome.abae48f6.png": "/crypto-fatman/static/media/fatty_welcome.abae48f6.png",
+    "static/media/hat.c258b89a.svg": "/crypto-fatman/static/media/hat.c258b89a.svg",
+    "static/media/head_1.fecc4d8c.png": "/crypto-fatman/static/media/head_1.fecc4d8c.png",
+    "static/media/head_2.3dc10a38.png": "/crypto-fatman/static/media/head_2.3dc10a38.png",
+    "static/media/twitter.5ca07f6b.svg": "/crypto-fatman/static/media/twitter.5ca07f6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01fa1ea.js",
+    "static/js/2.0840a03e.chunk.js",
+    "static/css/main.cf8a009f.chunk.css",
+    "static/js/main.571a25a4.chunk.js"
+  ]
+}
